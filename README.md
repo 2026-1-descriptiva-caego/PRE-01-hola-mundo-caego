@@ -30,5 +30,8 @@ pytest
 
 ```bash
 git remote add origin https://github.com/ORGANIZACION/REPO.git
+git add .
+git commit -m "mensaje"
 git pull --rebase origin main
+git push origin main
 ```
