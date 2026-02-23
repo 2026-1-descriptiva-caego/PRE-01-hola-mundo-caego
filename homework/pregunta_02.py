@@ -13,8 +13,8 @@ def pregunta_02():
     Hello cruel world!
 
     """
-
-    return
+    #direccionar a la organización: git remote set-url origin https://github.com/ORGANIZACION/REPO.git
+    return "Hello cruel world!"
 
 
 if __name__ == "__main__":
