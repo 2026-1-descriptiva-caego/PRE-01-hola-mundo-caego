@@ -32,6 +32,6 @@ pytest
 git remote add origin https://github.com/ORGANIZACION/REPO.git
 git add .
 git commit -m "mensaje"
-git pull --rebase origin main
+git pull --rebase origin main #solo la primera vez
 git push origin main
 ```
