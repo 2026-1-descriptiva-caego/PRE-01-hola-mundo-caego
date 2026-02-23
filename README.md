@@ -25,3 +25,10 @@ Ejecute el siguiente comando en el terminal:
 ```bash
 pytest
 ```
+
+# Conectar al repositorio de la organización
+
+```bash
+git remote add origin https://github.com/ORGANIZACION/REPO.git
+git pull --rebase origin main
+```
